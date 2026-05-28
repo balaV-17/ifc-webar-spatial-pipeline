@@ -1,0 +1,344 @@
+[
+  {
+    "guid": "2eQLGTx7bBLxCFcGvm6me6",
+    "type": "IfcSpace",
+    "name": "Terrasse2 25:1388708",
+    "long_name": "Terrasse2 25",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2eQLGTx7bBLxCFcGvm6me$",
+    "type": "IfcSpace",
+    "name": "Terrasse 25:1388712",
+    "long_name": "Terrasse 25",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2eQLGTx7bBLxCFcGvm6meo",
+    "type": "IfcSpace",
+    "name": "Terrasse2 25:1388714",
+    "long_name": "Terrasse2 25",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2eQLGTx7bBLxCFcGvm6mhS",
+    "type": "IfcSpace",
+    "name": "W8.0.172",
+    "long_name": "Zimmer",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2eQLGTx7bBLxCFcGvm6mhV",
+    "type": "IfcSpace",
+    "name": "Bad:1388718",
+    "long_name": "Bad",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0kiQVHerX0Ch_3XDvJKPpt",
+    "type": "IfcSpace",
+    "name": "Zimmer 3:1394656",
+    "long_name": "Zimmer 3",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0kiQVHerX0Ch_3XDvJKPpn",
+    "type": "IfcSpace",
+    "name": "Zimmer 2:1394662",
+    "long_name": "Zimmer 2",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0kiQVHerX0Ch_3XDvJKPpf",
+    "type": "IfcSpace",
+    "name": "Zimmer 1:1394686",
+    "long_name": "Zimmer 1",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0kiQVHerX0Ch_3XDvJKPCM",
+    "type": "IfcSpace",
+    "name": "Bad:1394689",
+    "long_name": "Bad",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0kiQVHerX0Ch_3XDvJKPCG",
+    "type": "IfcSpace",
+    "name": "Flur 2:1394695",
+    "long_name": "Flur 2",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0kiQVHerX0Ch_3XDvJKPEp",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1394852",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0kiQVHerX0Ch_3XDvJKPFG",
+    "type": "IfcSpace",
+    "name": "HWR:1394887",
+    "long_name": "HWR",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3vJ5pyaczDehwut6oQErUH",
+    "type": "IfcSpace",
+    "name": "Flur 1:1633513",
+    "long_name": "Flur 1",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C70X",
+    "type": "IfcSpace",
+    "name": "Zimmer 2:1641568",
+    "long_name": "Zimmer 2",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C72G",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1641681",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C72L",
+    "type": "IfcSpace",
+    "name": "Flur 2:1641684",
+    "long_name": "Flur 2",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C72M",
+    "type": "IfcSpace",
+    "name": "Bad:1641687",
+    "long_name": "Bad",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C72R",
+    "type": "IfcSpace",
+    "name": "HWR:1641690",
+    "long_name": "HWR",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C72S",
+    "type": "IfcSpace",
+    "name": "Zimmer 1:1641693",
+    "long_name": "Zimmer 1",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C72X",
+    "type": "IfcSpace",
+    "name": "Flur 1:1641696",
+    "long_name": "Flur 1",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3WD3JqeAXEe9QQM8O7C72d",
+    "type": "IfcSpace",
+    "name": "Zimmer 3:1641702",
+    "long_name": "Zimmer 3",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9HKa",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1644469",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9HKf",
+    "type": "IfcSpace",
+    "name": "Flur:1644472",
+    "long_name": "Flur",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9HKg",
+    "type": "IfcSpace",
+    "name": "WC:1644475",
+    "long_name": "WC",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9HwB",
+    "type": "IfcSpace",
+    "name": "8.3.TH15",
+    "long_name": "Zimmer",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9HwD",
+    "type": "IfcSpace",
+    "name": "8.3.TH16",
+    "long_name": "Bad",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9HwF",
+    "type": "IfcSpace",
+    "name": "8.3.TH17",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9Hwn",
+    "type": "IfcSpace",
+    "name": "8.3.TH18",
+    "long_name": "Flur",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0Kv3mTZFTACuYQHLON9Hwp",
+    "type": "IfcSpace",
+    "name": "8.3.TH19",
+    "long_name": "WC",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0ePabTf8XFV9PWNuavV5k5",
+    "type": "IfcSpace",
+    "name": "Treppenraum:1647896",
+    "long_name": "Treppenraum",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0ePabTf8XFV9PWNuavV5k6",
+    "type": "IfcSpace",
+    "name": "Treppenraum:1647899",
+    "long_name": "Treppenraum",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1BLY9a6gn9BwV18EAuELij",
+    "type": "IfcSpace",
+    "name": "nicht begehbare Terrasse:2375071",
+    "long_name": "nicht begehbare Terrasse",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1BLY9a6gn9BwV18EAuELiJ",
+    "type": "IfcSpace",
+    "name": "8.0.TH28",
+    "long_name": "Terrasse1 25",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1BLY9a6gn9BwV18EAuEIGZ",
+    "type": "IfcSpace",
+    "name": "nicht begehbare Terrasse:2376337",
+    "long_name": "nicht begehbare Terrasse",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1BLY9a6gn9BwV18EAuEINd",
+    "type": "IfcSpace",
+    "name": "nicht begehbare Terrasse:2376533",
+    "long_name": "nicht begehbare Terrasse",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1BLY9a6gn9BwV18EAuEINb",
+    "type": "IfcSpace",
+    "name": "nicht begehbare Terrasse:2376535",
+    "long_name": "nicht begehbare Terrasse",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3PegzAczPE6e_zP70lIUDu",
+    "type": "IfcSpace",
+    "name": "8.0.TH33",
+    "long_name": "Terrasse 25",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3PegzAczPE6e_zP70lIUDw",
+    "type": "IfcSpace",
+    "name": "8.0.TH34",
+    "long_name": "Terrasse1 25",
+    "storey": "OKRD OG4",
+    "area": null,
+    "volume": null
+  }
+]
