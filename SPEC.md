@@ -23,7 +23,7 @@
 
 | | |
 |:---|:---|
-| **Author** | [Balaji Velu] |
+| **Author** | Balaji Velu |
 | **Role Target** | AR / Spatial Computing Developer |
 | **Duration** | 48 Hours |
 | **Status** | Specification written before implementation |
