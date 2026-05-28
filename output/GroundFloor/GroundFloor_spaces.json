@@ -1,0 +1,380 @@
+[
+  {
+    "guid": "1YHXPP9rHBkAjj2hy9xJ8U",
+    "type": "IfcSpace",
+    "name": "Bad:1367633",
+    "long_name": "Bad",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0h9",
+    "type": "IfcSpace",
+    "name": "Flur:1367801",
+    "long_name": "Flur",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0hC",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1367804",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0iv",
+    "type": "IfcSpace",
+    "name": "Zimmer:1367817",
+    "long_name": "Zimmer",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0kI",
+    "type": "IfcSpace",
+    "name": "Bad:1367970",
+    "long_name": "Bad",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0kL",
+    "type": "IfcSpace",
+    "name": "WC:1367973",
+    "long_name": "WC",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0kO",
+    "type": "IfcSpace",
+    "name": "Zimmer 1:1367976",
+    "long_name": "Zimmer 1",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0kR",
+    "type": "IfcSpace",
+    "name": "Zimmer 2:1367979",
+    "long_name": "Zimmer 2",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "2tYN2qSKn1_9K0z8Znw0k1",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1367985",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqoa",
+    "type": "IfcSpace",
+    "name": "Zimmer 2:1371692",
+    "long_name": "Zimmer 2",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqoZ",
+    "type": "IfcSpace",
+    "name": "Zimmer 1:1371694",
+    "long_name": "Zimmer 1",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqok",
+    "type": "IfcSpace",
+    "name": "Bad:1371696",
+    "long_name": "Bad",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqoj",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1371698",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqoe",
+    "type": "IfcSpace",
+    "name": "Flur:1371700",
+    "long_name": "Flur",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqrt",
+    "type": "IfcSpace",
+    "name": "Zimmer 1:1371702",
+    "long_name": "Zimmer 1",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqro",
+    "type": "IfcSpace",
+    "name": "Zimmer 2:1371704",
+    "long_name": "Zimmer 2",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqrn",
+    "type": "IfcSpace",
+    "name": "Bad:1371706",
+    "long_name": "Bad",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqry",
+    "type": "IfcSpace",
+    "name": "Flur:1371708",
+    "long_name": "Flur",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1oCWcGsKX0K9GjFWeytqrx",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1371710",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiO7",
+    "type": "IfcSpace",
+    "name": "Bad:1373889",
+    "long_name": "Bad",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiO1",
+    "type": "IfcSpace",
+    "name": "Zimmer:1373892",
+    "long_name": "Zimmer",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiOC",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1373894",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiOB",
+    "type": "IfcSpace",
+    "name": "WC:1373896",
+    "long_name": "WC",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiRs",
+    "type": "IfcSpace",
+    "name": "Flur:1373898",
+    "long_name": "Flur",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiRr",
+    "type": "IfcSpace",
+    "name": "Zimmer 1:1373900",
+    "long_name": "Zimmer 1",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiRm",
+    "type": "IfcSpace",
+    "name": "AR:1373902",
+    "long_name": "AR",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiR$",
+    "type": "IfcSpace",
+    "name": "Bad:1373904",
+    "long_name": "Bad",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiRw",
+    "type": "IfcSpace",
+    "name": "Zimmer 2:1373906",
+    "long_name": "Zimmer 2",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiQU",
+    "type": "IfcSpace",
+    "name": "Wohnen/Küche:1373909",
+    "long_name": "Wohnen/Küche",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1W_Wx31yrBRuhKhjwLxiQT",
+    "type": "IfcSpace",
+    "name": "Flur:1373911",
+    "long_name": "Flur",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0aEHoHIhDDWht0iK0N3La8",
+    "type": "IfcSpace",
+    "name": "Balkon 50:1382042",
+    "long_name": "Balkon 50",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0I2arjzTTBKBzP4MsinP0N",
+    "type": "IfcSpace",
+    "name": "Terrasse 50:1543820",
+    "long_name": "Terrasse 50",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0I2arjzTTBKBzP4MsinP09",
+    "type": "IfcSpace",
+    "name": "Terrasse 50:1543826",
+    "long_name": "Terrasse 50",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "26TOn4yhvBgRojkbL7bMsc",
+    "type": "IfcSpace",
+    "name": "Terrasse 50:1544856",
+    "long_name": "Terrasse 50",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "26TOn4yhvBgRojkbL7bMtt",
+    "type": "IfcSpace",
+    "name": "Terrasse 50:1544905",
+    "long_name": "Terrasse 50",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3lFTV4chn6kArGAU$kzkHR",
+    "type": "IfcSpace",
+    "name": "AR:1634350",
+    "long_name": "AR",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3lFTV4chn6kArGAU$kzkH0",
+    "type": "IfcSpace",
+    "name": "Flur:1634357",
+    "long_name": "Flur",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1xXRY3XI91dAdL$37HE1SW",
+    "type": "IfcSpace",
+    "name": "Treppenraum:1634986",
+    "long_name": "Treppenraum",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1xXRY3XI91dAdL$37HE12_",
+    "type": "IfcSpace",
+    "name": "Foyer:1635636",
+    "long_name": "Foyer",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "1xXRY3XI91dAdL$37HE132",
+    "type": "IfcSpace",
+    "name": "Treppenraum:1635656",
+    "long_name": "Treppenraum",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "0caRtazh14t9zReU6wFyO2",
+    "type": "IfcSpace",
+    "name": "Foyer:1758097",
+    "long_name": "Foyer",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  },
+  {
+    "guid": "3iT94FBqj8MxxTa5gDLei6",
+    "type": "IfcSpace",
+    "name": "8.0.TH35",
+    "long_name": "Balkon 50",
+    "storey": "OKFF EG",
+    "area": null,
+    "volume": null
+  }
+]
