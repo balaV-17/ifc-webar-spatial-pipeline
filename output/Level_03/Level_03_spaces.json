@@ -5,6 +5,7 @@
     "name": "WC/DU:1384210",
     "long_name": "WC/DU",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -15,6 +16,7 @@
     "name": "Zimmer 1:1384222",
     "long_name": "Zimmer 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -25,6 +27,7 @@
     "name": "Zimmer 2:1384225",
     "long_name": "Zimmer 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -35,6 +38,7 @@
     "name": "Zimmer 3:1384228",
     "long_name": "Zimmer 3",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -45,6 +49,7 @@
     "name": "WC/Du:1384231",
     "long_name": "WC/Du",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -55,6 +60,7 @@
     "name": "Wohnen/Küche:1384247",
     "long_name": "Wohnen/Küche",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -65,6 +71,7 @@
     "name": "Flur 1:1384275",
     "long_name": "Flur 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -75,6 +82,7 @@
     "name": "Flur 2:1384281",
     "long_name": "Flur 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -85,6 +93,7 @@
     "name": "Zimmer 4:1384284",
     "long_name": "Zimmer 4",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -95,6 +104,7 @@
     "name": "Flur 2:1384395",
     "long_name": "Flur 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -105,6 +115,7 @@
     "name": "Zimmer 4:1384398",
     "long_name": "Zimmer 4",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -115,6 +126,7 @@
     "name": "Bad:1384401",
     "long_name": "Bad",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -125,6 +137,7 @@
     "name": "Zimmer 3:1384455",
     "long_name": "Zimmer 3",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -135,6 +148,7 @@
     "name": "Zimmer 2:1384458",
     "long_name": "Zimmer 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -145,6 +159,7 @@
     "name": "Zimmer 4:1384464",
     "long_name": "Zimmer 4",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -155,6 +170,7 @@
     "name": "Zimmer 2:1384467",
     "long_name": "Zimmer 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -165,6 +181,7 @@
     "name": "Zimmer 3:1384470",
     "long_name": "Zimmer 3",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -175,6 +192,7 @@
     "name": "Wohnen/Küche:1384745",
     "long_name": "Wohnen/Küche",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -185,6 +203,7 @@
     "name": "WC/DU:1384757",
     "long_name": "WC/DU",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -195,6 +214,7 @@
     "name": "Bad:1384760",
     "long_name": "Bad",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -205,6 +225,7 @@
     "name": "Flur 1:1384763",
     "long_name": "Flur 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -215,6 +236,7 @@
     "name": "Flur 2:1384766",
     "long_name": "Flur 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -225,6 +247,7 @@
     "name": "AR:1384769",
     "long_name": "AR",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -235,6 +258,7 @@
     "name": "Flur 1:1384772",
     "long_name": "Flur 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -245,6 +269,7 @@
     "name": "Balkon 50:1384937",
     "long_name": "Balkon 50",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -255,6 +280,7 @@
     "name": "Balkon 50:1384940",
     "long_name": "Balkon 50",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -265,6 +291,7 @@
     "name": "Balkon 25:1384959",
     "long_name": "Balkon 25",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -275,6 +302,7 @@
     "name": "Balkon 25:1384962",
     "long_name": "Balkon 25",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -285,6 +313,7 @@
     "name": "AR:1626594",
     "long_name": "AR",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -295,6 +324,7 @@
     "name": "Bad:1626609",
     "long_name": "Bad",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -305,6 +335,7 @@
     "name": "Zimmer 1:1626621",
     "long_name": "Zimmer 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -315,6 +346,7 @@
     "name": "AR:1627007",
     "long_name": "AR",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -325,6 +357,7 @@
     "name": "Zimmer 1:1627018",
     "long_name": "Zimmer 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -335,6 +368,7 @@
     "name": "8.3.TH2",
     "long_name": "Treppenraum",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -345,6 +379,7 @@
     "name": "Treppenraum:1638536",
     "long_name": "Treppenraum",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -355,6 +390,7 @@
     "name": "Wohnen/Küche:1638618",
     "long_name": "Wohnen/Küche",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -365,6 +401,7 @@
     "name": "8.0.TH17",
     "long_name": "Zimmer 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -375,6 +412,7 @@
     "name": "8.0.TH18",
     "long_name": "Zimmer 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -385,6 +423,7 @@
     "name": "8.0.TH19",
     "long_name": "Zimmer 3",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -395,6 +434,7 @@
     "name": "8.0.TH20",
     "long_name": "Zimmer 4",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -405,6 +445,7 @@
     "name": "8.0.TH21",
     "long_name": "Wohnen/Küche",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -415,6 +456,7 @@
     "name": "8.0.TH22",
     "long_name": "WC/DU",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -425,6 +467,7 @@
     "name": "8.0.TH23",
     "long_name": "Bad",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -435,6 +478,7 @@
     "name": "8.0.TH24",
     "long_name": "Flur 1",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -445,6 +489,7 @@
     "name": "8.0.TH25",
     "long_name": "Flur 2",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -455,6 +500,7 @@
     "name": "8.0.TH26",
     "long_name": "AR",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -465,6 +511,7 @@
     "name": "W8.0.197",
     "long_name": "Balkon 25",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"
@@ -475,6 +522,7 @@
     "name": "W8.0.198",
     "long_name": "Balkon 25",
     "storey": "OKFF OG3",
+    "elevation_m": 10.62,
     "area": null,
     "volume": null,
     "category": "spaces"

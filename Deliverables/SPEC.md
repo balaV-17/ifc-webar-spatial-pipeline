@@ -299,7 +299,7 @@ This decision was made because:
 └────────┬────────┘
          ↓
 ┌─────────────────┐
-│ Navigate by     │
+│ Load semantic by│
 │ storey          │
 └────────┬────────┘
          ↓
@@ -314,6 +314,31 @@ This decision was made because:
 If immersive AR is unavailable, the same scene loads in a **desktop orbit viewer**, preserving semantic interaction and visualization logic. This ensures the project remains fully reviewable regardless of hardware availability.
 
 ---
+
+### 10.3 Browser & Platform Support
+
+### WebXR Compatibility
+
+| Platform | WebXR Support | Status |
+|----------|---------------|--------|
+| **Android (Chrome)** | ✅ Full support | Target platform |
+| **Android (Edge, Firefox)** | ✅ Supported | Should work |
+| **iOS (Safari)** | ❌ No WebXR support | Apple does not implement WebXR |
+| **iOS (Any browser)** | ❌ All browsers on iOS use WebKit, which lacks WebXR | Not supported |
+| **Desktop (Chrome/Edge)** | ✅ Supports WebXR (requires camera permissions) | For debugging |
+| **Desktop (Firefox, Safari)** | ⚠️ Limited or no support | Not recommended |
+
+### Important Note for iOS Users
+
+**WebXR is NOT supported on iPhone or iPad.** Apple has not implemented the WebXR Device API in Safari or any iOS browser (all iOS browsers are required to use Apple's WebKit engine).
+
+**Alternative for iOS:** The app falls back to a desktop-style 3D viewer (orbit controls) when WebXR is unavailable. Users can still inspect the model, toggle storeys and categories, but cannot place the model in AR.
+
+### Recommendation for Testing
+
+- **Use Android phone with Chrome** for full AR experience  (kindly give access to the site from site settings ad aslo access to camera)
+- **Use desktop Chrome** with camera for testing
+- **iOS users** — use the desktop fallback mode
 
 ## 11. Success Criteria
 
