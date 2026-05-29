@@ -164,16 +164,17 @@ ifc-webar-spatial-pipeline/
 ├── .gitignore                      # Updated
 └── SPEC.md                         # Project original spec ( Updated on the first day)
 
----
+
 Note
 Important: The output/ and output_combinedMesh/ folders are created automatically when you run the scripts. They are ignored by git to keep the repository clean.
+```
+## Next Steps
 
-Next Steps
 After running the pipeline, you will have GLB files ready for WebXR visualization.
 
 👉 Proceed to Phase 2: Use the [webar-construction-validation-tool](https://github.com/balaV-17/WebAR_Construction_Validation_Tool) to view the GLB in AR.
 
-License
+# License
 This project is for demonstration purposes as part of the BIM-AR Validation Tool assignment.
 
-Created by Balaji Velu
+# Created by Balaji Velu
