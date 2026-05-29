@@ -3,6 +3,7 @@
 ## Overview
 
 This pipeline converts any IFC (Industry Foundation Classes) BIM model into optimized GLB files ready for AR/WebXR visualization.
+[Watch Demo](https://youtu.be/GlctptoFtcw)
 
 **What it does:**
 - Parses IFC files using ifcopenshell
@@ -170,7 +171,7 @@ Important: The output/ and output_combinedMesh/ folders are created automaticall
 Next Steps
 After running the pipeline, you will have GLB files ready for WebXR visualization.
 
-👉 Proceed to Phase 2: Use the webar-construction-validation-tool to view the GLB in AR.
+👉 Proceed to Phase 2: Use the [webar-construction-validation-tool](https://github.com/balaV-17/WebAR_Construction_Validation_Tool) to view the GLB in AR.
 
 License
 This project is for demonstration purposes as part of the BIM-AR Validation Tool assignment.
