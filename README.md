@@ -74,7 +74,7 @@ NumPy OK
 
 ## Usage
 
-### Prepare Your IFC File
+### Step 1: Prepare Your IFC File
 
 Place your IFC file in the `data/` folder:
 
@@ -83,7 +83,7 @@ data/
 └── sample.ifc
 ```
 
-### Step 1: Export Individual Storey GLBs
+### Step 2: Export Individual Storey GLBs
 
 ```bash
 python scripts/batch_export_by_category.py data/sample.ifc output
@@ -94,7 +94,7 @@ python scripts/batch_export_by_category.py data/sample.ifc output
 - Exports one GLB per storey per category
 - Creates `spaces.json` with room metadata for each storey
 
-### Step 2: (Optional) Combine All Storeys into One GLB
+### Step 3: (Optional) Combine All Storeys into One GLB
 
 ```bash
 python scripts/combine_mesh.py output output_combinedMesh
@@ -164,19 +164,15 @@ ifc-webar-spatial-pipeline/
 └── SPEC.md                         # Project original spec ( Updated on the first day)
 
 ---
+Note
+Important: The output/ and output_combinedMesh/ folders are created automatically when you run the scripts. They are ignored by git to keep the repository clean.
 
-> **Note:** The `output/` and `output_combinedMesh/` folders are created automatically when you run the scripts. They are ignored by git to keep the repository clean.
+Next Steps
+After running the pipeline, you will have GLB files ready for WebXR visualization.
 
-## Next Steps
+👉 Proceed to Phase 2: Use the webar-construction-validation-tool to view the GLB in AR.
 
-After running the pipeline, you will have GLB files ready for WebXR visualization. Proceed to Phase 2: use the webar-construction-validation-tool to view the GLB in AR.
-
----
-
-## License
-
+License
 This project is for demonstration purposes as part of the BIM-AR Validation Tool assignment.
 
----
-
-**Created by Balaji Velu**
+Created by Balaji Velu
