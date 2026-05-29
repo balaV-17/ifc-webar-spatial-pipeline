@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Auto-generated output folders
+output/
+output_combinedMesh/
+
+# IFC files (optional — keep if you want to share sample)
+# data/*.ifc
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
